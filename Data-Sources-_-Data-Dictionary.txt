@@ -1,16 +1,16 @@
-# Data Sources
+Data Sources
 
 The data for this project was from the first European Skills and Jobs Survey carried out by the European Centre for the Development of Vocational Training and available to download on their website. 
 
-# Data Dictionary
+Data Dictionary
 The survey asked 293 questions not all of which were necessary for my project. As such, I narrowed down my predictor variables into themes:
 
-### About the respondent
+About the respondent
 • Gender
 • Age
 • Country
 
-### About the respondent's current job & company
+About the respondent's current job & company
 • What the current job is
 • Job description
 • Type & number of workplaces of the company 
@@ -26,24 +26,24 @@ About the position & any changes
 • Changes to the workplace
 • Salary
 
-### Job satisfaction
+Job satisfaction
 • Job satisfaction
 
-### Education
+Education
 • Qualification level
 • Qualification field
 
-### Skills
+Skills
 • Level of skills needed for the job
 • Level of skills have
 • Skill development 
 • How skills level has changed from the previous role
 
-### Training
+Training
 • Training
 • Payment of training
 • Training reasons
 
-### Accepting the job
+Accepting the job
 • Why respondents took the job in the first place
 • What respondents were doing previously 
